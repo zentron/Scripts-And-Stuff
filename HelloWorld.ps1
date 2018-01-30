@@ -1,1 +1,4 @@
-Write-Host HELLO #{Octopus.Release.Name}
+param (
+    [string]$release = "NONE", 
+)
+Write-Host HELLO $release
