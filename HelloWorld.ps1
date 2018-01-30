@@ -1,0 +1,1 @@
+Write-Host HELLO #{Octopus.Release.Name}
