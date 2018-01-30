@@ -1,4 +1,4 @@
 param (
-    [string]$release = "NONE", 
+    [string]$release = "NONE"
 )
 Write-Host HELLO $release
