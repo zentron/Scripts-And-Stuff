@@ -23,21 +23,6 @@
               "name": "appdev",
               "location": "Central US",
               "storageAccountType": "Standard_LRS"
-            },
-            {
-              "name": "dbdev",
-              "location": "Central US",
-              "storageAccountType": "Standard_GRS"
-            },
-            {
-              "name": "webdev",
-              "location": "Central US",
-              "storageAccountType": "Standard_ZRS"
-            },
-            {
-              "name": "archdev",
-              "location": "West US",
-              "storageAccountType": "Premium_LRS"
             }
           ]
         }
