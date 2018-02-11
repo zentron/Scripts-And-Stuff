@@ -6,7 +6,8 @@ exports.handler = (event, context, callback) => {
 	callback(null, {
 		"customParam": process.env.CustomParameter,
 		"environment": process.env.Environment,
-		"Release": process.env.Release
+		"Release": process.env.Release,
+		"Color": "red"
 	});
 
 };
