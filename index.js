@@ -1,7 +1,7 @@
 exports.handler = (event, context, callback) => {
     
 // TODO implement
-    console.log("HH");
+    console.log("HHK");
 	
 	callback(null, {
 		"customParam": process.env.CustomParameter,
