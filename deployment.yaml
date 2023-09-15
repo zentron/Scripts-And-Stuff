@@ -3,4 +3,4 @@ kind: Secret
 metadata:
   name: secret-sa-sample
 data:
-  extra: *****
+  extra: ******
